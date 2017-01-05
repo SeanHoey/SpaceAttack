@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\SpaceAttack\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Sean\Documents\SpaceAttack\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sean\Documents\SpaceAttack\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Sean\Documents\SpaceAttack\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Sean\Documents\SpaceAttack\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Sean\Documents\SpaceAttack\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Sean\Documents\SpaceAttack\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Sean\Documents\SpaceAttack\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Sean\Documents\SpaceAttack\obj\Debug\UnityVS.SpaceAttack.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\SpaceAttack\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sean\Documents\SpaceAttack\obj\Debug\Assembly-CSharp.pdb
